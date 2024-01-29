@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topics>
+    <topic>
+        <name>Memrise 3000</name>
+        <words>
+            <word>de</word>
+            <word>la</word>
+            <word>le</word>
+            <word>et</word>
+        </words>
+    </topic>
+    <topic>
+        <name>Memrise 5000</name>
+        <words>
+            <word>de</word>
+            <word>la</word>
+            <word>le</word>
+            <word>les</word>
+        </words>
+    </topic>
+    <topic>
+        <name>Sujet 00</name>
+        <words>
+            <word>la</word>
+            <word>le</word>
+            <word>et</word>
+            <word>les</word>
+        </words>
+    </topic>
+    <topic>
+        <name>Sujet 01</name>
+        <words>
+            <word>de</word>
+            <word>le</word>
+            <word>et</word>
+            <word>les</word>
+        </words>
+    </topic>
+    <topic>
+        <name>Sujet 02</name>
+        <words>
+            <word>de</word>
+            <word>la</word>
+            <word>et</word>
+            <word>les</word>
+        </words>
+    </topic>
+    <topic>
+        <name>Sujet 03</name>
+        <words>
+            <word>de</word>
+            <word>la</word>
+            <word>le</word>
+            <word>les</word>
+        </words>
+    </topic>
+</topics>

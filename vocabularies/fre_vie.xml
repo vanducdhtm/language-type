@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<words>
+    <word>
+        <text>de</text>
+        <phonetic>/də/</phonetic>
+        <definition>indique le lieu d’où qqn ou qqch vient, indique un lien entre des personnes ou des choses</definition>
+        <meaning>(pre) từ, của, bằng</meaning>
+    </word>
+    <word>
+        <text>la</text>
+        <phonetic>/la/</phonetic>
+        <definition>Note de musique, sixième son de la gamme naturelle.</definition>
+        <meaning>(pro) cái; (n) nốt la</meaning>
+    </word>
+    <word>
+        <text>le</text>
+        <phonetic>/lə/</phonetic>
+        <definition>mot qui désigne une personne ou une chose connue</definition>
+        <meaning>(pro) cái, nó</meaning>
+    </word>
+    <word>
+        <text>et</text>
+        <phonetic>/e/</phonetic>
+        <definition>relie deux termes, deux phrases</definition>
+        <meaning>(conj) và, cùng</meaning>
+    </word>
+    <word>
+        <text>les</text>
+        <phonetic>/le/</phonetic>
+        <definition>mot qui représente une personne ou une chose</definition>
+        <meaning>(pro) các; () cái</meaning>
+    </word>
+</words>
